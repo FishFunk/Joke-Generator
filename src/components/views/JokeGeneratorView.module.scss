@@ -1,0 +1,23 @@
+.quoteIcon {
+    opacity: 0.2;
+}
+
+.jokePrompt {
+    margin-left: 5vw;
+    position: absolute;
+}
+
+.jokePunchline {
+    margin-right: 5vw;
+    position: absolute;
+}
+
+.loadingMessage {
+    color: gray;
+    font-weight: bold;
+}
+
+.errorMessage {
+    font-weight: bold;
+    color: red;
+}
